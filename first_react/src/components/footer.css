@@ -1,0 +1,9 @@
+.footer{
+    text-align: center;
+    background-color: black;
+    color: azure;
+    position:fixed;
+    bottom:0;
+    padding:7px;
+    width:100%;
+}
